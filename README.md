@@ -99,6 +99,6 @@ CSV 格式：包含日期、情緒分數、日記內容及圖片路徑
 #### 退出/登入
 切換到其他帳號使用
 ### 流程圖
-
-
+![GitHub图像](C:\Users\user\Downloads\應用程式功能概覽.png-應用程式功能概覽.png)
+https://firefly.adobe.com/public/t2i?id=urn%3Aaaid%3Asc%3AAP%3Ac73ffbe4-52e5-48df-a934-4d904dbb3f97&ff_channel=shared_link&ff_source=Text2Image
 
