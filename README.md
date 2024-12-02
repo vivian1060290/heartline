@@ -1,6 +1,8 @@
 # heartline
 
-## 組別:第18組  班級:四資工二甲  組員:范芷紜、潘怡潔
+  ## 組別:第18組
+  班級:四資工二甲
+  組員:范芷紜、潘怡潔
 
 
 ## 一、研究動機
@@ -98,7 +100,6 @@ CSV 格式：包含日期、情緒分數、日記內容及圖片路徑
 用戶可以修改密碼、更新個人信息，或刪除帳號
 #### 退出/登入
 切換到其他帳號使用
-### 流程圖
-![GitHub图像](C:\Users\user\Downloads\應用程式功能概覽.png-應用程式功能概覽.png)
-https://firefly.adobe.com/public/t2i?id=urn%3Aaaid%3Asc%3AAP%3Ac73ffbe4-52e5-48df-a934-4d904dbb3f97&ff_channel=shared_link&ff_source=Text2Image
+### 流程圖![應用程式功能概覽](https://github.com/user-attachments/assets/61e1d9be-8f5a-4fdc-bcb0-8fce29ec8425)
+
 
