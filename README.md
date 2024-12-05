@@ -103,5 +103,8 @@ CSV 格式：包含日期、情緒分數、日記內容及圖片路徑
 #### 退出/登入
 切換到其他帳號使用
 ### 流程圖![應用程式功能概覽](https://github.com/user-attachments/assets/61e1d9be-8f5a-4fdc-bcb0-8fce29ec8425)
+## 參考文獻
+  [app: 心情日記](https://play.google.com/store/apps/details?id=com.daily.journal.diary.lock.mood.tracker.free&hl=zh_TW)
 
-
+  
+  [QT 超级日记本程序原创](https://blog.csdn.net/lhk_int/article/details/80557230)
